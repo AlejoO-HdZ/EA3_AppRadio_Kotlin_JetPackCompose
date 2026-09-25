@@ -85,12 +85,11 @@ IU Digital Radio
 
 La aplicación cuenta con un catálogo de cinco emisoras simuladas.
 
-Las primeras tres utilizan archivos de audio locales:
+Las primeras tres utilizan archivos de audio locales, previamente definidas
+NOTA: Para efectos personalizados de la actividad se deja libre este recurso, se puede agregar audio propio a carpeta RES/RAW o url segun necesidad, con los siguientes nombres:
 
-RadioIU 1 — emisora_radio1.mp3
-
+RadioIU 1 — emisora_radio1.mp3 
 RadioIU 2 — emisora_radio2.mp3
-
 RadioIU 3 — emisora_radio3.mp3
 
 Las emisoras restantes forman parte de la simulación de la interfaz y pueden incorporar posteriormente sus respectivos archivos de audio.
